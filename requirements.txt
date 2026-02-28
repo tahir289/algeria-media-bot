@@ -1,0 +1,9 @@
+feedparser
+beautifulsoup4
+requests
+transformers
+torch
+python-telegram-bot
+apscheduler
+sentence-transformers
+scikit-learn
